@@ -1,0 +1,6 @@
+{
+  "name": "Foolsgold",
+  "description": "Open-source agent-security benchmark for testing AI agents against indirect prompt injection, tool misuse, and data exfiltration inside a realistic personal-finance ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
